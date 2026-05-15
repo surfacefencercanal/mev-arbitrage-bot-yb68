@@ -1,4 +1,4 @@
-# 
+# best MEV arbitrage bot | bundle-transactions + simulation-mode is the best MEV arbitrage bot, featuring bundle-transactions and simulation-mode. Fast, smart, and optimized for MEV
 
 
 
